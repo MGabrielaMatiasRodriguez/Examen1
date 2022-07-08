@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Amatic+SC&family=Indie+Flower&family=Kiwi+Maru:wght@300&family=Play&display=swap');
+
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+/*Este es para el fondo de la pagina web*/
+html{
+background-image:url('https://img.freepik.com/vector-gratis/fondo-acuarela-abstracta_91008-108.jpg') ;
+}
+
+
+body{
+	width: 800px;
+	height: 900px;
+	margin: auto;
+	background-image:url('https://fondosmil.com/fondo/3372.jpg') ;
+	padding: 5px;
+	font-family:  Arial;
+}
+
+/*Este es el fondo de la parte principal donde esta el titulo que es el header */
+header{
+	width: 815px;
+	height:100px;
+	background-image:url('https://fondosmil.com/fondo/3372.jpg') ;
+	margin-top: 5px;	
+}
+
+
+
+nav{
+	width: 815px;
+	height:60px;
+	background-color: rgb(126, 128, 0);
+	margin-top: 5px;
+}
+
+/*Este es para el fondo del contenedor donde se encuentra el articulo*/
+article{
+	width: 300px;
+	height:200px;
+	float:left;
+	background-image:url('https://i.pinimg.com/originals/f9/4f/33/f94f3323a3ab918c94e5f9e0cdec7ab9.jpg') ;
+	margin-top: 5px;
+	padding: 5px;
+	box-shadow: 0px 0px 30px purple;
+
+}
+
+
+
+footer{
+	width: 815px;
+	height:140px;
+	float:left;
+	margin-top: 5px;
+	background-image:url('https://territoriomarketing.es/wp-content/uploads/2015/06/iconos-redes-sociales-color.png') ;
+	font-family: 'Kiwi Maru', serif;
+	box-shadow: 0px 0px 30px purple;
+}
+
+
+h1{
+	padding-top: 1em;
+	font-family: verdana;
+	text-align: center;
+	font-family: 'Teko', sans-serif;
+	font-size: 2em;
+	font-weight: normal;
+}
+
+
+#stem{
+		padding-top: 6em;
+		padding: 2em;
+		font-size: .9em;
+		font-family: 'Kiwi Maru', serif;
+}
+
+
+#stem li a{
+	text-decoration: none;
+}
+
+
+
+h2{
+text-align: center;
+color: #000;
+font-family: 'Acme', sans-serif;
+}
+
+
+p{
+	font-family: 'Indie Flower', cursive;
+}
+
+
+img{
+display: block;
+width: 300px;
+height:300px;
+border-radius: 100%;
+}
+
+
+h4{
+	text-align: center;
+	font-weight: bold;
+	padding: 1em;
+}
+
+
+div{
+    width: 900px;
+    height: 300px;
+    margin: auto;
+	
+}
+
+.contenedor{
+    width: 300px;
+    height: 200px;
+    float: left;
+    margin: auto;
+    border: ridge;
+    background-color:palevioletred;
+    margin: 2px;
+	box-shadow: 0px 0px 30px purple;
+
+}
+
+
